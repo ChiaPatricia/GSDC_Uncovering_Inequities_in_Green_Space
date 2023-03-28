@@ -8,7 +8,7 @@ live in urban areas. As polluted air and water and overcrowded cities become our
 everyday lives, the physical and mental health of urban communities has undoubtedly
 gained increasing attention in recent years. Not surprisingly, green spaces are coming to
 the rescue.
-
+Cancel changes
 Open spaces such as parks benefit communities by providing a cleaner environment to
 protect public health such as a reducing in the urban heat island effect and improving air
 quality. They can also have an impact on social health by contributing to increase
@@ -32,5 +32,4 @@ green spaces for public health.
 
 # Storymap Visualization
 
-[Online Interaction Version](https://storymaps.arcgis.com/stories/1cc16b53f3d94cedaa6
-8acfad44571c9)
+[Online Interaction Version](https://storymaps.arcgis.com/stories/1cc16b53f3d94cedaa68acfad44571c9)
