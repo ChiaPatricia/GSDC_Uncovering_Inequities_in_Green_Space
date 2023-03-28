@@ -1,7 +1,7 @@
 # GSDC_Uncovering_Inequities_in_Green_Space
 Modeling an Environmental-Social Green Space Index to Improve Community  Health and Equity
 
-# Project Narrative
+
 With the rapid growth of urbanization, green spaces in the form of parks, gardens, and
 other open areas are extremely important for improving the quality of life for those who
 live in urban areas. As polluted air and water and overcrowded cities become our
